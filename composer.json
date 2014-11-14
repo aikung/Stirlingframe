@@ -1,0 +1,7 @@
+{
+    "name": "aikung/stirlingframe",
+    "description": "a simple php framework",
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
