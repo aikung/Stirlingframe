@@ -1,2 +1,2 @@
 @echo off
-php _chefdick/bin/chefdick.php %*
+php stirlingframe/bin/stirling.php %*
